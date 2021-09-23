@@ -129,6 +129,6 @@ def play(dim_size, num_bombs):
 
 if __name__ == '__main__':
     print("Введите размер поля и кол-во бомб(если поле 3×3 введите просто 3)")
-    print("Клетки вводить в формате X,Y,Action(Flag или Action)")
+    print("Клетки вводить в формате X,Y,Action(Flag или Open)")
     dim_size, num_bombs = map(int, input().split())
     play(dim_size, num_bombs)
