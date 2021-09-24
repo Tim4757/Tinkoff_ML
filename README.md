@@ -1,2 +1,2 @@
 # Tinkoff_ML
-Привет Manager
+Тыкай main
